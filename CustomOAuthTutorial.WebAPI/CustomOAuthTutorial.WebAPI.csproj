@@ -222,6 +222,7 @@
     <Compile Include="Results\ChallengeResult.cs" />
     <Compile Include="Startup.cs" />
     <Compile Include="Utilities\AuthRepository.cs" />
+    <Compile Include="Utilities\MD5PasswordHasher.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Areas\HelpPage\HelpPage.css" />
